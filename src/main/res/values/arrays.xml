@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="tipo">
+        <item>
+            BASSA
+        </item>
+        <item>
+            MEDIO
+        </item>
+        <item>
+           ALTA
+        </item>
+        <item>
+            URGENTE
+        </item>
+    </array>
+
+</resources>
